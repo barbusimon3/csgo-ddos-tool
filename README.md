@@ -1,4 +1,4 @@
-# RoDDoS
+# CS2DDoS
  disclaimer of liability / i am not responsable for the actions you do, this is made purely for educational purpose!
  
  
